@@ -102,7 +102,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/K6xlnav.png)
 
-`wget -q https://raw.githubusercontent.com/Realbityoda/AcreageCoin/master/acr_install.sh`
+`wget -q https://raw.githubusercontent.com/AcreageCoin/MasterNode-Script/master/acr_install.sh`
 ***
 
 ***Step 8***
@@ -199,3 +199,6 @@ Click "File Save"
 *You should see ***status 4 or 9***
 
 If you do, congratulations! You have now setup a masternode. If you do not, please contact support and they will assist you.
+
+
+Made By BitYoda
