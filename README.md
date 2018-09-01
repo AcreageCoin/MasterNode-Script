@@ -102,7 +102,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/K6xlnav.png)
 
-`wget -q https://raw.githubusercontent.com/AcreageCoin/MasterNode-Script/master/acr_install.sh`
+`wget -q https://raw.githubusercontent.com/acr-official/acreage/releases/download/v2.2.2/acr-mn.sh`
 ***
 
 ***Step 8***
